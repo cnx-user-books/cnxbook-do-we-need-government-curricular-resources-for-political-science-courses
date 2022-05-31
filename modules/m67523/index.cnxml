@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>How Bitcoin Helps Free Speech</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67523</md:content-id>
+  <md:title>How Bitcoin Helps Free Speech</md:title>
+  <md:abstract>Bitcoin is a truly revolutionary technology. It's "censorship-resistant," because it can be used to send money around the world without the involvement of a third party, such as a credit card company or other corporate payment processor. That means payments cannot be prevented due to government or corporate interference. 
+Using real life examples, scholar Jerry Brito explains how the peer-to-peer technology of Bitcoin and other cryptocurrencies can help support people fighting oppressive governments, and other important causes, in a way that was never possible before. Whether Bitcoin in particular succeeds or fails, this new type of technology is a bell that cannot be unrung.</md:abstract>
+  <md:uuid>e1863fee-2813-47ff-88da-ce6119f04fa4</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video of the Neil Armstrong on the Moon">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/erO5UR1zxRo"/>
+ </media>
+<caption>"How Bitcoin Helps Free Speech" by the Institute for Humane Studies</caption></figure></para><para id="eip-261"><title>Description</title>Bitcoin is a truly revolutionary technology. It's "censorship-resistant," because it can be used to send money around the world without the involvement of a third party, such as a credit card company or other corporate payment processor. That means payments cannot be prevented due to government or corporate interference. 
+</para><para id="eip-937">Using real life examples, scholar Jerry Brito explains how the peer-to-peer technology of Bitcoin and other cryptocurrencies can help support people fighting oppressive governments, and other important causes, in a way that was never possible before. Whether Bitcoin in particular succeeds or fails, this new type of technology is a bell that cannot be unrung. 
+</para><section id="eip-110"><title>Discussion Questions</title><para id="eip-137">
+<exercise id="texas-exercise">
+  <problem id="texas-problem">
+    <para id="texas-problem-para">
+      How can bitcoin lead to help promote free speech?
+<list id="grocerylist" list-type="enumerated" number-style="upper-alpha"><item>It is censorship-resistant</item>
+  <item>It is not issued by a central bank</item>
+  <item>There is no third party</item>
+  <item>All of the above</item>
+</list></para>
+  </problem>
+  <solution id="texas-solution">
+    <para id="texas-solution-para">
+      D. All of the above
+    </para>
+  </solution>
+</exercise>
+</para></section></content>
+
+</document>
