@@ -1,836 +1,221 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" authors="Institute for Humane Studies">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col25431</md:content-id>
-  <md:title>Do We Need Government?: Curricular Resources for Political Science Courses</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>57ab1163-3f36-4216-8945-93b9ea4bba1f</md:uuid>
-<md:slug>do-we-need-government-curricular-resources-for-political-science-courses</md:slug>
-</metadata>
-
+    <md:content-id>col25431</md:content-id>
+    <md:title>Do We Need Government?: Curricular Resources for Political Science Courses</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>57ab1163-3f36-4216-8945-93b9ea4bba1f</md:uuid>
+    <md:slug>do-we-need-government-curricular-resources-for-political-science-courses</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Rational Ignorance</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67283"/>
-        
-      
-    
-    
-      <col:module document="m67282"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Rent-Seeking</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67287"/>
-        
-      
-    
-    
-      <col:module document="m67285"/>
-        
-      
-    
-    
-      <col:module document="m67286"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Median Voter Theory</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67291"/>
-        
-      
-    
-    
-      <col:module document="m67290"/>
-        
-      
-    
-    
-      <col:module document="m67289"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Concentrated Benefits and Dispersed Costs</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67292"/>
-        
-      
-    
-    
-      <col:module document="m65286"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Liberal Democracy</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Defining Classical Liberalism</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m64953"/>
-        
-      
-    
-    
-      <col:module document="m67430"/>
-        
-      
-    
-    
-      <col:module document="m67432"/>
-        
-      
-    
-    
-      <col:module document="m64960"/>
-        
-      
-    
-    
-      <col:module document="m64954"/>
-        
-      
-    
-    
-      <col:module document="m64957"/>
-        
-      
-    
-    
-      <col:module document="m64964"/>
-        
-      
-    
-    
-      <col:module document="m64967"/>
-        
-      
-    
-    
-      <col:module document="m64966"/>
-        
-      
-    
-    
-      <col:module document="m64378">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://www.learnliberty.org/course_details/what-is-classical-liberalism/">Schools of Thought in Classical Liberalism</cnxml:link>
-              <cnxml:link url="https://www.youtube.com/watch?v=jWaR5JRG0lo">The Decline of Classical Liberalism</cnxml:link>
-              <cnxml:link url="https://www.youtube.com/watch?v=puusxNAkoe4">The Triumph of Classical Liberalism</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m67435"/>
-        
-      
-    
-    
-      <col:module document="m67437"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Liberty and Equality</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67443"/>
-        
-      
-    
-    
-      <col:module document="m67441"/>
-        
-      
-    
-    
-      <col:module document="m65451"/>
-        
-      
-    
-    
-      <col:module document="m65498"/>
-        
-      
-    
-    
-      <col:module document="m67813"/>
-        
-      
-    
-    
-      <col:module document="m67444"/>
-        
-      
-    
-    
-      <col:module document="m67447"/>
-        
-      
-    
-    
-      <col:module document="m65504"/>
-        
-      
-    
-    
-      <col:module document="m67815"/>
-        
-      
-    
-    
-      <col:module document="m67445"/>
-        
-      
-    
-    
-      <col:module document="m67448"/>
-        
-      
-    
-    
-      <col:module document="m67449"/>
-        
-      
-    
-    
-      <col:module document="m67451"/>
-        
-      
-    
-    
-      <col:module document="m65495"/>
-        
-      
-    
-    
-      <col:module document="m67452"/>
-        
-      
-    
-    
-      <col:module document="m67453"/>
-        
-      
-    
-    
-      <col:module document="m65440"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Government and Democracy</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m65285"/>
-        
-      
-    
-    
-      <col:module document="m67460"/>
-        
-      
-    
-    
-      <col:module document="m67294"/>
-        
-      
-    
-    
-      <col:module document="m67457"/>
-        
-      
-    
-    
-      <col:module document="m67455"/>
-        
-      
-    
-    
-      <col:module document="m67459"/>
-        
-      
-    
-    
-      <col:module document="m64379">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="https://www.youtube.com/watch?v=Kd4oHAwqq0A">The Drowning Child Though Experiment</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m67461"/>
-        
-      
-    
-    
-      <col:module document="m67463"/>
-        
-      
-    
-    
-      <col:module document="m67464"/>
-        
-      
-    
-    
-      <col:module document="m67465"/>
-        
-      
-    
-    
-      <col:module document="m67466"/>
-        
-      
-    
-    
-      <col:module document="m67467"/>
-        
-      
-    
-    
-      <col:module document="m67469"/>
-        
-      
-    
-    
-      <col:module document="m67293"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Rule of Law</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67413"/>
-        
-      
-    
-    
-      <col:module document="m67421"/>
-        
-      
-    
-    
-      <col:module document="m67422"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Institutions of a Free Society</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Free Speech and Tolerance</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67489"/>
-        
-      
-    
-    
-      <col:module document="m67490"/>
-        
-      
-    
-    
-      <col:module document="m66177"/>
-        
-      
-    
-    
-      <col:module document="m66181"/>
-        
-      
-    
-    
-      <col:module document="m67514"/>
-        
-      
-    
-    
-      <col:module document="m66238"/>
-        
-      
-    
-    
-      <col:module document="m67491"/>
-        
-      
-    
-    
-      <col:module document="m66176"/>
-        
-      
-    
-    
-      <col:module document="m67492"/>
-        
-      
-    
-    
-      <col:module document="m66180"/>
-        
-      
-    
-    
-      <col:module document="m66182"/>
-        
-      
-    
-    
-      <col:module document="m67499"/>
-        
-      
-    
-    
-      <col:module document="m67494"/>
-        
-      
-    
-    
-      <col:module document="m67509"/>
-        
-      
-    
-    
-      <col:module document="m67507"/>
-        
-      
-    
-    
-      <col:module document="m67506"/>
-        
-      
-    
-    
-      <col:module document="m67505"/>
-        
-      
-    
-    
-      <col:module document="m67501"/>
-        
-      
-    
-    
-      <col:module document="m67502"/>
-        
-      
-    
-    
-      <col:module document="m66236"/>
-        
-      
-    
-    
-      <col:module document="m66207"/>
-        
-      
-    
-    
-      <col:module document="m66233"/>
-        
-      
-    
-    
-      <col:module document="m67523"/>
-        
-      
-    
-    
-      <col:module document="m67520"/>
-        
-      
-    
-    
-      <col:module document="m67522"/>
-        
-      
-    
-    
-      <col:module document="m67519"/>
-        
-      
-    
-    
-      <col:module document="m67517"/>
-        
-      
-    
-    
-      <col:module document="m67512"/>
-        
-      
-    
-    
-      <col:module document="m67513"/>
-        
-      
-    
-    
-      <col:module document="m67510"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Liberty and Rights</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67478"/>
-        
-      
-    
-    
-      <col:module document="m67483"/>
-        
-      
-    
-    
-      <col:module document="m65454"/>
-        
-      
-    
-    
-      <col:module document="m65446"/>
-        
-      
-    
-    
-      <col:module document="m65456"/>
-        
-      
-    
-    
-      <col:module document="m67487"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Foreign Intervention and Immigration</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67477"/>
-        
-      
-    
-    
-      <col:module document="m67476"/>
-        
-      
-    
-    
-      <col:module document="m67475"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Surveillance</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67470"/>
-        
-      
-    
-    
-      <col:module document="m67471"/>
-        
-      
-    
-    
-      <col:module document="m67473"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Property Rights</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67423"/>
-        
-      
-    
-    
-      <col:module document="m67426"/>
-        
-      
-    
-    
-      <col:module document="m67428"/>
-        
-      
-    
-    
-      <col:module document="m67427"/>
-        
-      
-    
-    
-      <col:module document="m65007"/>
-        
-      
-    
-    
-      <col:module document="m65170"/>
-        
-      
-    
-    
-      <col:module document="m65014"/>
-        
-      
-    
-    
-      <col:module document="m65492"/>
-        
-      
-    
-    
-      <col:module document="m65506"/>
-        
-      
-    
-    
-      <col:module document="m67828"/>
-        
-      
-    
-    
-      <col:module document="m67825"/>
-        
-      
-    
-    
-      <col:module document="m67827"/>
-        
-      
-    
-    
-      <col:module document="m64995"/>
-        
-      
-    
-    
-      <col:module document="m67420"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Contracts</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m66870"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Rational Ignorance</md:title>
+      <col:content>
+        <col:module document="m67283"/>
+        <col:module document="m67282"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Rent-Seeking</md:title>
+      <col:content>
+        <col:module document="m67287"/>
+        <col:module document="m67285"/>
+        <col:module document="m67286"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Median Voter Theory</md:title>
+      <col:content>
+        <col:module document="m67291"/>
+        <col:module document="m67290"/>
+        <col:module document="m67289"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Concentrated Benefits and Dispersed Costs</md:title>
+      <col:content>
+        <col:module document="m67292"/>
+        <col:module document="m65286"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Liberal Democracy</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Defining Classical Liberalism</md:title>
+          <col:content>
+            <col:module document="m64953"/>
+            <col:module document="m67430"/>
+            <col:module document="m67432"/>
+            <col:module document="m64960"/>
+            <col:module document="m64954"/>
+            <col:module document="m64957"/>
+            <col:module document="m64964"/>
+            <col:module document="m64967"/>
+            <col:module document="m64966"/>
+            <col:module document="m64378">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://www.learnliberty.org/course_details/what-is-classical-liberalism/">Schools of Thought in Classical Liberalism</cnxml:link>
+                  <cnxml:link url="https://www.youtube.com/watch?v=jWaR5JRG0lo">The Decline of Classical Liberalism</cnxml:link>
+                  <cnxml:link url="https://www.youtube.com/watch?v=puusxNAkoe4">The Triumph of Classical Liberalism</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m67435"/>
+            <col:module document="m67437"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Liberty and Equality</md:title>
+          <col:content>
+            <col:module document="m67443"/>
+            <col:module document="m67441"/>
+            <col:module document="m65451"/>
+            <col:module document="m65498"/>
+            <col:module document="m67813"/>
+            <col:module document="m67444"/>
+            <col:module document="m67447"/>
+            <col:module document="m65504"/>
+            <col:module document="m67815"/>
+            <col:module document="m67445"/>
+            <col:module document="m67448"/>
+            <col:module document="m67449"/>
+            <col:module document="m67451"/>
+            <col:module document="m65495"/>
+            <col:module document="m67452"/>
+            <col:module document="m67453"/>
+            <col:module document="m65440"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Government and Democracy</md:title>
+          <col:content>
+            <col:module document="m65285"/>
+            <col:module document="m67460"/>
+            <col:module document="m67294"/>
+            <col:module document="m67457"/>
+            <col:module document="m67455"/>
+            <col:module document="m67459"/>
+            <col:module document="m64379">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="https://www.youtube.com/watch?v=Kd4oHAwqq0A">The Drowning Child Though Experiment</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m67461"/>
+            <col:module document="m67463"/>
+            <col:module document="m67464"/>
+            <col:module document="m67465"/>
+            <col:module document="m67466"/>
+            <col:module document="m67467"/>
+            <col:module document="m67469"/>
+            <col:module document="m67293"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Rule of Law</md:title>
+      <col:content>
+        <col:module document="m67413"/>
+        <col:module document="m67421"/>
+        <col:module document="m67422"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Institutions of a Free Society</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Free Speech and Tolerance</md:title>
+          <col:content>
+            <col:module document="m67489"/>
+            <col:module document="m67490"/>
+            <col:module document="m66177"/>
+            <col:module document="m66181"/>
+            <col:module document="m67514"/>
+            <col:module document="m66238"/>
+            <col:module document="m67491"/>
+            <col:module document="m66176"/>
+            <col:module document="m67492"/>
+            <col:module document="m66180"/>
+            <col:module document="m66182"/>
+            <col:module document="m67499"/>
+            <col:module document="m67494"/>
+            <col:module document="m67509"/>
+            <col:module document="m67507"/>
+            <col:module document="m67506"/>
+            <col:module document="m67505"/>
+            <col:module document="m67501"/>
+            <col:module document="m67502"/>
+            <col:module document="m66236"/>
+            <col:module document="m66207"/>
+            <col:module document="m66233"/>
+            <col:module document="m67523"/>
+            <col:module document="m67520"/>
+            <col:module document="m67522"/>
+            <col:module document="m67519"/>
+            <col:module document="m67517"/>
+            <col:module document="m67512"/>
+            <col:module document="m67513"/>
+            <col:module document="m67510"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Liberty and Rights</md:title>
+          <col:content>
+            <col:module document="m67478"/>
+            <col:module document="m67483"/>
+            <col:module document="m65454"/>
+            <col:module document="m65446"/>
+            <col:module document="m65456"/>
+            <col:module document="m67487"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Foreign Intervention and Immigration</md:title>
+          <col:content>
+            <col:module document="m67477"/>
+            <col:module document="m67476"/>
+            <col:module document="m67475"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Surveillance</md:title>
+          <col:content>
+            <col:module document="m67470"/>
+            <col:module document="m67471"/>
+            <col:module document="m67473"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Property Rights</md:title>
+      <col:content>
+        <col:module document="m67423"/>
+        <col:module document="m67426"/>
+        <col:module document="m67428"/>
+        <col:module document="m67427"/>
+        <col:module document="m65007"/>
+        <col:module document="m65170"/>
+        <col:module document="m65014"/>
+        <col:module document="m65492"/>
+        <col:module document="m65506"/>
+        <col:module document="m67828"/>
+        <col:module document="m67825"/>
+        <col:module document="m67827"/>
+        <col:module document="m64995"/>
+        <col:module document="m67420"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Contracts</md:title>
+      <col:content>
+        <col:module document="m66870"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
